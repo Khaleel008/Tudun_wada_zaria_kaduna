@@ -1,0 +1,1 @@
+var json_Hotels_7 = {"type":"FeatureCollection","name":"Hotels_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Hotels":"Kongo Conference Hotel Zaria"},"geometry":{"type":"Point","coordinates":[7.727847404553853,11.082826094900389]}}]}
